@@ -1,6 +1,7 @@
 from typing import List
 
 import flair.datasets
+from flair.datasets import ColumnCorpus
 from flair.data import Corpus
 from flair.embeddings import (
     TokenEmbeddings,
@@ -12,12 +13,27 @@ from flair.embeddings import (
 from flair.training_utils import EvaluationMetric
 from flair.visual.training_curves import Plotter
 
+type = 'start_'
+
+nb_cells = 128
+exp_name = type + "ss_rubric_" + str(nb_cells)+ "_01"
 # 1. get the corpus
-corpus: Corpus = flair.datasets.UD_ENGLISH()
+columns = {0: 'text', 1: 'pos'}
+
+# this is the folder in which train, test and dev files reside
+id = "EHF_category_dataset"
+data_folder = './datasets/' + id
+
+# init a corpus using column format, data folder and the names of the train, dev and test files
+corpus: Corpus = ColumnCorpus(data_folder, columns,
+                              train_file="train_" + type + id + '.txt',
+                              test_file="test_" + type + id + '.txt',
+                              dev_file="dev_" + type + id + '.txt')
+
 print(corpus)
 
 # 2. what tag do we want to predict?
-tag_type = "upos"
+tag_type = "pos"
 
 # 3. make the tag dictionary from the corpus
 tag_dictionary = corpus.make_tag_dictionary(tag_type=tag_type)
@@ -25,14 +41,14 @@ print(tag_dictionary.idx2item)
 
 # initialize embeddings
 embedding_types: List[TokenEmbeddings] = [
-    WordEmbeddings("glove"),
+    #WordEmbeddings("glove"),
     # comment in this line to use character embeddings
     # CharacterEmbeddings(),
     # comment in these lines to use contextual string embeddings
     #
-    # FlairEmbeddings('news-forward'),
+    FlairEmbeddings('fr-forward'),
     #
-    # FlairEmbeddings('news-backward'),
+    FlairEmbeddings('fr-backward'),
 ]
 
 embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
@@ -41,7 +57,7 @@ embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
 from flair.models import SequenceTagger
 
 tagger: SequenceTagger = SequenceTagger(
-    hidden_size=256,
+    hidden_size=nb_cells,
     embeddings=embeddings,
     tag_dictionary=tag_dictionary,
     tag_type=tag_type,
@@ -54,13 +70,14 @@ from flair.trainers import ModelTrainer
 trainer: ModelTrainer = ModelTrainer(tagger, corpus)
 
 trainer.train(
-    "resources/taggers/example-ner",
+    "resources/taggers/" + exp_name,
     learning_rate=0.1,
+    embeddings_storage_mode= "cpu",
     mini_batch_size=32,
-    max_epochs=20,
+    max_epochs=150,
     shuffle=False,
 )
 
 plotter = Plotter()
-plotter.plot_training_curves("resources/taggers/example-ner/loss.tsv")
-plotter.plot_weights("resources/taggers/example-ner/weights.txt")
+plotter.plot_training_curves("resources/taggers/" + exp_name + "/loss.tsv")
+plotter.plot_weights("resources/taggers/" + exp_name + "/weights.txt")
