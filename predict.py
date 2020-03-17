@@ -4,6 +4,7 @@ from flair.datasets import ColumnCorpus
 from flair.data import Corpus
 import os
 import time
+import tqdm
 
 def main():
 
@@ -11,7 +12,7 @@ def main():
     columns = {0: 'text', 1 : "pos"}
 
     type = 'start_'
-    nb_cells = 128
+    nb_cells = 32
     model_name = type + "ss_rubric_" + str(nb_cells)+ "_01"
 
     # this is the folder in which train, test and dev files reside
@@ -33,27 +34,48 @@ def main():
     tag_dictionary = corpus.make_tag_dictionary(tag_type=tag_type)
     tags = [ '<'  + x.decode("UTF-8") + ">" for x in tag_dictionary.idx2item]
 
-    output_file = "./predictions/" + "test_" + id + "_ground_truth.md"
-    sentence = corpus.test.sentences[0]
-    write_to_file(sentence, tags, output_file)
-
-
-
-    tagger: SequenceTagger = SequenceTagger.load("./resources/taggers/" + model_name + "/best-model.pt")
-    tagger.predict(sentence)
-
-    print("Analysing %s" % sentence)
-
     if not os.path.isdir("./predictions"):
         os.mkdir("./predictions")
     if not os.path.isdir("./predictions/" + model_name):
         os.mkdir("./predictions/" + model_name)
 
-    output_file = "./predictions/" + model_name + "/" + "test_" + id + ".md"
-    write_to_file(sentence, tags, output_file)
+    output_file = "./predictions/" + "test_" + id + "_ground_truth.md"
+    sentence = corpus.test.sentences[0]
 
 
-def write_to_file(sentence, tags, file):
+    visualize(sentence, tags, output_file)
+
+    tags = [ '<'  + x.decode("UTF-8") + ">" for x in tag_dictionary.idx2item]
+    tagger: SequenceTagger = SequenceTagger.load("./resources/taggers/" + model_name + "/best-model.pt")
+
+    output_file = "./predictions/" + model_name + "/" + "test_" + id + ".txt"
+
+    write_predictions(corpus.test.sentences, tagger, tags, output_file)
+
+    #print("Analysing %s" % sentence)
+
+
+
+
+
+
+def write_predictions(sentences, tagger, tags, file):
+    with open(file, "w", encoding="utf8") as out:
+        for sentence in tqdm.tqdm(sentences):
+            tagger.predict(sentence)
+            token = ""
+            for t in sentence.to_tagged_string().split(" "):
+                if t in tags:
+                    color = get_color(palette, tags, t)
+                    out.write(token + " " + t[1:-1] + "\n")
+                    token = ""
+                else:
+                    if not token == "":
+                        out.write(token +" ")
+                    token = t
+            out.write("\n")
+
+def visualize(sentence, tags, file):
     with open(file, "w", encoding="utf8") as out:
         token = ""
         for t in sentence.to_tagged_string().split(" "):
