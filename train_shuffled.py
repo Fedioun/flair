@@ -15,7 +15,7 @@ from flair.visual.training_curves import Plotter
 
 rubric = "CAPITAL"
 nb_cells = 32
-exp_name = "shuffled_" + str(nb_cells) e+ "_01"
+exp_name = "shuffled_" + str(nb_cells) + "_01"
 # 1. get the corpus
 columns = {0: 'text', 1: 'pos'}
 
