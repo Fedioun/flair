@@ -39,18 +39,16 @@ def main():
     if not os.path.isdir("./predictions/" + model_name):
         os.mkdir("./predictions/" + model_name)
 
-    output_file = "./predictions/" + "test_" + id + "_ground_truth.md"
-    sentence = corpus.test.sentences[0]
+    output_file = "./predictions/" + "test_" + type + id + "_ground_truth.md"
+    visualize(corpus.test.sentences, tags, output_file)
 
-
-    visualize(sentence, tags, output_file)
-
-    tags = [ '<'  + x.decode("UTF-8") + ">" for x in tag_dictionary.idx2item]
     tagger: SequenceTagger = SequenceTagger.load("./resources/taggers/" + model_name + "/best-model.pt")
 
     output_file = "./predictions/" + model_name + "/" + "test_" + id + ".txt"
-
     write_predictions(corpus.test.sentences, tagger, tags, output_file)
+
+    output_file = "./predictions/" + model_name + "/" + "test_" + type + id + ".md"
+    visualize(corpus.test.sentences, tags, output_file)
 
     #print("Analysing %s" % sentence)
 
@@ -71,22 +69,25 @@ def write_predictions(sentences, tagger, tags, file):
                     token = ""
                 else:
                     if not token == "":
-                        out.write(token +" ")
+                        out.write(token +" None\n")
                     token = t
             out.write("\n")
 
-def visualize(sentence, tags, file):
+
+def visualize(sentences, tags, file):
     with open(file, "w", encoding="utf8") as out:
-        token = ""
-        for t in sentence.to_tagged_string().split(" "):
-            if t in tags:
-                color = get_color(palette, tags, t)
-                out.write("<span style=\"color:rgb(" + str(color[0]) + "," + str(color[1])+ "," + str(color[2]) + ")\">" + token + "</span> ")
-                token = ""
-            else:
-                if not token == "":
-                    out.write(token +" ")
-                token = t
+        for sentence in tqdm.tqdm(sentences):
+            token = ""
+            for t in sentence.to_tagged_string().split(" "):
+                if t in tags:
+                    color = get_color(palette, tags, t)
+                    out.write("<span style=\"color:rgb(" + str(color[0]) + "," + str(color[1])+ "," + str(color[2]) + ")\">" + token + "</span> ")
+                    token = ""
+                else:
+                    if not token == "":
+                        out.write(token +" ")
+                    token = t
+            out.write("\n\n\n")
 
 def get_sentences(file) :
     sentences = []

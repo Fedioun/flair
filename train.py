@@ -15,7 +15,7 @@ from flair.visual.training_curves import Plotter
 
 type = 'start_'
 
-nb_cells = 128
+nb_cells = 32
 exp_name = type + "ss_rubric_" + str(nb_cells)+ "_01"
 # 1. get the corpus
 columns = {0: 'text', 1: 'pos'}
