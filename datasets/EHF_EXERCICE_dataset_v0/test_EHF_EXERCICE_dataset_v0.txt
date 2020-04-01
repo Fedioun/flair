@@ -1,0 +1,58 @@
+30 end-date
+JUIN end-date
+
+Du O
+ter start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Au O
+30 end-date
+septembre end-date
+. O
+
+Du O
+Ivr start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Du O
+1 start-date
+6 start-date
+, start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Du O
+1er start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Du O
+lei start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Du O
+ler start-date
+juin start-date
+au O
+31 end-date
+mai end-date
+. O
+

@@ -1,0 +1,66 @@
+Du O
+Zef start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Du O
+ter start-date
+juillet start-date
+au O
+30 end-date
+juin end-date
+. O
+
+30 end-date
+SEPT end-date
+. O
+  O
+- O
+
+PROD O
+. O
+AMORT O
+. O
+
+1 start-date
+er start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+
+Du O
+1 start-date
+. start-date
+: start-date
+juillet start-date
+au O
+30 end-date
+juin end-date
+. O
+
+Du O
+1 start-date
+er start-date
+octobre start-date
+au O
+30 end-date
+septembre end-date
+. O
+
+Du O
+lf start-date
+, start-date
+janvier start-date
+au O
+31 end-date
+décembre end-date
+. O
+de O
+  O
+63 O
+
