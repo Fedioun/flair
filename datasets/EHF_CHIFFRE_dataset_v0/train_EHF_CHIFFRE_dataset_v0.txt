@@ -29,7 +29,6 @@ NF currency
 ; O
 1960 year
 20,27 amount
-  O
 - O
 1488 O
 - O
@@ -336,7 +335,6 @@ NF currency
 : link
 49,04 amount
 . O
-  O
 & O
 MORT O
 . O
@@ -408,7 +406,6 @@ NF currency
 : link
 123,11 amount
 . O
-  O
 19 O
 ( O
 191 O
@@ -677,7 +674,6 @@ NF currency
 1960 year
 102,21 amount
 . O
-  O
 1958 O
 1959 O
 1960 O
@@ -758,7 +754,6 @@ e O
 : link
 357 amount
 . O
-  O
 - O
 1293 O
 - O
@@ -913,7 +908,6 @@ NF currency
 : link
 2.103 amount
 . O
-  O
 - O
 632 O
 - O
@@ -931,7 +925,6 @@ NF currency
 : link
 15,3 amount
 . O
-  O
 Beetrucs O
 DIVID O
 . O
@@ -1033,7 +1026,6 @@ r link
 1960 year
 6,52 amount
 . O
-  O
 A O
 ! O
 
@@ -1092,7 +1084,6 @@ NF currency
 : link
 64,7 amount
 . O
-  O
 CO O
 
 ( O
@@ -1105,7 +1096,6 @@ NF currency
 : link
 90,04 amount
 . O
-  O
 4.400 O
 3.700 O
 7.500 O
@@ -1152,7 +1142,6 @@ NF currency
 : link
 4,67 amount
 . O
-  O
 ire O
 : O
 ; O
@@ -1389,11 +1378,9 @@ NF currency
 : link
 197 amount
 . O
-  O
 5 O
 % O
 1941 O
-  O
 - O
 1.720 O
 - O
@@ -1423,7 +1410,6 @@ NF currency
 4 O
 1/2 O
 1954 O
-  O
 10.230 O
 8.850 O
 10.400 O
@@ -1526,7 +1512,6 @@ NF currency
 : link
 88,7 amount
 . O
-  O
 6 O
 1/2 O
 % O
@@ -1633,7 +1618,6 @@ NF currency
 : link
 14,7 amount
 . O
-  O
 Notice O
 SEF O
 EL O
@@ -1851,7 +1835,6 @@ NF currency
 : link
 7,02 amount
 . O
-  O
 8 O
 ( O
 5 O
@@ -2058,7 +2041,6 @@ de currency
 142.0 amount
 00 amount
 ' amount
-  O
 — O
 1956 O
 — O
@@ -2266,7 +2248,6 @@ NF currency
 ) link
 295,5 amount
 . O
-  O
 - O
 1215 O
 - O
@@ -2310,7 +2291,6 @@ NF currency
 : link
 9,65 amount
 . O
-  O
 sintricn O
 DIVID O
 . O
@@ -2479,7 +2459,6 @@ NF currency
 : link
 30,4 amount
 . O
-  O
 Peaux O
 , O
 n O
@@ -2849,7 +2828,6 @@ NF currency
 : link
 185,24 amount
 . O
-  O
 — O
 1021 O
 — O
@@ -3122,7 +3100,6 @@ NF currency
 : link
 14,17 amount
 . O
-  O
 Immobilisations O
 ( O
 nettes O
@@ -3364,7 +3341,6 @@ NF currency
 : link
 450,8 amount
 . O
-  O
 - O
 641 O
 - O
@@ -3447,7 +3423,6 @@ NF currency
 : link
 27,69 amount
 . O
-  O
 Cf O
 III O
 CC O
@@ -3732,7 +3707,6 @@ s link
 s link
 27,06 amount
 . O
-  O
 CO O
 
 ( O
@@ -4088,7 +4062,6 @@ millions currency
 de currency
 NF currency
 ) O
-  O
 1959 year
 : link
 20,17 amount
@@ -4097,7 +4070,6 @@ NF currency
 : link
 22,18 amount
 . O
-  O
 AMORT O
 . O
 PROVIS O
@@ -4160,7 +4132,6 @@ de link
 fr currency
 . O
 ; O
-  O
 len currency
 millions currency
 de currency
@@ -4267,7 +4238,6 @@ NF currency
 : link
 22 amount
 . O
-  O
 1956 O
 1957 O
 1958 O
@@ -4340,7 +4310,6 @@ NF currency
 : link
 23,27 amount
 . O
-  O
 CO O
 
 ( O
@@ -4439,7 +4408,6 @@ NE currency
 : link
 42,7 amount
 . O
-  O
 atuirma O
 DIVID O
 . O
@@ -4550,7 +4518,6 @@ NF currency
 : link
 208 amount
 . O
-  O
 4 O
 % O
 1945 O
@@ -4809,7 +4776,6 @@ millions amount
 mi amount
 l amount
 " amount
-  amount
 lions amount
 ; O
 1960/1961 year
@@ -4961,7 +4927,6 @@ VN currency
 : link
 285,9 amount
 . O
-  O
 nt O
 d O
 e O
@@ -5005,7 +4970,6 @@ millions amount
 de link
 fr currency
 . O
-  O
 ' O
 .507 O
 1.412 O
@@ -5163,7 +5127,6 @@ NF currency
 : link
 19,9 amount
 . O
-  O
 15 O
 
 ( O
@@ -5196,7 +5159,6 @@ NF currency
 : link
 69,1 amount
 . O
-  O
 - O
 1657 O
 - O
@@ -5243,7 +5205,6 @@ NF currency
 1960 year
 15,78 amount
 . O
-  O
 ae O
 
 ( O
@@ -5285,7 +5246,6 @@ NF currency
 : link
 24,59 amount
 . O
-  O
 tes O
 e O
 * O
@@ -5389,7 +5349,6 @@ NF currency
 : link
 23,4 amount
 . O
-  O
 COt O
 col O
 
@@ -5507,7 +5466,6 @@ NF currency
 : link
 35,54 amount
 . O
-  O
 5 O
 3 O
 4 O
@@ -5697,7 +5655,6 @@ NF currency
 : link
 54,99 amount
 . O
-  O
 /MORT O
 . O
 PROVIS O
@@ -5779,7 +5736,6 @@ NF currency
 1960 year
 45,4 amount
 . O
-  O
 AMORTISS O
 . O
 BÉNÉFICE O
@@ -6039,7 +5995,6 @@ NF currency
 : link
 93 amount
 . O
-  O
 240 O
 fr O
 
@@ -6057,7 +6012,6 @@ NF currency
 : link
 47,9 amount
 . O
-  O
 195e O
 ; O
 P. O
@@ -6132,7 +6086,6 @@ millions currency
 de currency
 NF currency
 ) O
-  O
 AMORT O
 . O
 PROVIS O

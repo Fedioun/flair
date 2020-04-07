@@ -17,7 +17,6 @@ juin end-date
 30 end-date
 SEPT end-date
 . O
-  O
 - O
 
 PROD O
@@ -61,6 +60,5 @@ au O
 décembre end-date
 . O
 de O
-  O
 63 O
 

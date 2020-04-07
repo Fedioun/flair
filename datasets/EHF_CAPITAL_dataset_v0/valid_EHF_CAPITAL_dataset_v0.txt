@@ -139,7 +139,6 @@ par link
 annulation link
 de link
 575 link
-  link
 actions link
 , link
 puis link
@@ -199,7 +198,6 @@ de O
 50 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -518,7 +516,6 @@ sh O
 capital O
 émis O
 : O
-  O
 13.482.003 last-amount
 . O
 - O
@@ -551,7 +548,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -811,7 +807,6 @@ ou O
 au O
 porteur O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -990,7 +985,6 @@ de O
 50 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -1151,7 +1145,6 @@ NF O
 entièrement O
 libérées O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -1524,7 +1517,6 @@ de O
 fr O
 . O
 C.F.A. O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -1602,7 +1594,6 @@ et O
 actions O
 ordinaires O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -1737,7 +1728,6 @@ de O
 25.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -1954,7 +1944,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -2134,7 +2123,6 @@ de O
 NF O
 nominatives O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -2345,7 +2333,6 @@ de O
 100.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -2394,7 +2381,6 @@ de O
 1.835 O
 fr.-Djibouti O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -2582,7 +2568,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -2935,7 +2920,6 @@ en O
 NF currency
 . O
 
-  O
 3.330.000 last-amount
 NF currency
 , O
@@ -2956,7 +2940,6 @@ et O
 97.581 O
 actions O
 B. O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -3191,7 +3174,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -3240,7 +3222,6 @@ de O
 actions O
 et O
 en O
-  O
 1950.0 chg-date
 à O
 100.0 chg-amount
@@ -3347,7 +3328,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -3484,7 +3464,6 @@ en O
 NF currency
 . O
 
-  O
 ( O
 lires currency
 ) O
@@ -3499,7 +3478,6 @@ de O
 1.000 O
 lires O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -3507,7 +3485,6 @@ origine Ini-date
 1.000.000 Ini-amount
 de O
 lires currency
- O
 . O
 Porté O
 successivement O
@@ -3521,7 +3498,6 @@ en O
 14.400.000.030 chg-amount
 ; O
 en O
- O
 1953.0 chg-date
 à O
 19.200.000.000 chg-amount
@@ -3551,7 +3527,6 @@ de O
 100 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -3797,7 +3772,6 @@ de O
 florins O
 ; O
 230.000 O
-  O
 actions O
 privilégiées O
 6.0 O
@@ -3913,7 +3887,6 @@ et O
 actions O
 de O
 préférence O
-  O
 participantes O
 . O
 A Ini-date
@@ -4121,7 +4094,6 @@ de O
 50 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -4261,7 +4233,6 @@ de O
 50 O
 NF O
 . O
-  O
 Le O
 capital O
 d O
@@ -4428,7 +4399,6 @@ de O
 50 O
 NF O
 . O
-  O
 Le O
 capital O
 qui O
@@ -4772,7 +4742,6 @@ de O
 fr O
 . O
 C.F.A. O
-  O
 à O
 l O
 ' Ini-date
@@ -4961,7 +4930,6 @@ NF O
 entièrement O
 libérées O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -5195,7 +5163,6 @@ de O
 50 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -5399,7 +5366,6 @@ de O
 100 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -5674,7 +5640,6 @@ de O
 1.0 O
 , O
 87.631 O
-  O
 actions O
 de O
 préférence O
@@ -5717,7 +5682,6 @@ de O
 100.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -5809,7 +5773,6 @@ pour O
 ) O
 . O
 
-  O
 £ currency
 5.870 last-amount
 , O
@@ -5869,7 +5832,6 @@ piastres currency
 en O
 1923 chg-date
 8 chg-amount
-  chg-amount
 5 chg-amount
 millions chg-amount
 de link
@@ -5896,7 +5858,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -6058,7 +6019,6 @@ de O
 5.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -6148,7 +6108,6 @@ I O
 ) O
 ; O
 en O
-  O
 1955.0 chg-date
 à O
 1.400 chg-amount
@@ -6220,7 +6179,6 @@ de O
 37.5 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -6422,7 +6380,6 @@ C.F.A. O
 entièrement O
 libérées O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -6491,7 +6448,6 @@ de O
 25.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -6674,7 +6630,6 @@ de O
 100 O
 NF O
 . O
-  O
 A Ini-date
 l Ini-date
 ' Ini-date
@@ -6818,7 +6773,6 @@ de O
 fr O
 . O
 C.F.A. O
-  O
 Précédemment O
 140.0 chg-amount
 millions chg-amount
@@ -6921,7 +6875,6 @@ pour O
 ) O
 . O
 
-  O
 1.0 O
 . O
 1.361.250 last-amount
@@ -6935,7 +6888,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -7100,7 +7052,6 @@ de O
 50.0 O
 NF O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date
@@ -7334,7 +7285,6 @@ NF O
 entièrement O
 libérées O
 . O
-  O
 A Ini-date
 l' Ini-date
 origine Ini-date

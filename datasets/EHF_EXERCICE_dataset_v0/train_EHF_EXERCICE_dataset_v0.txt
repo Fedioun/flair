@@ -110,7 +110,6 @@ décembre end-date
 
 30 end-date
 AVRIL end-date
-  O
 - O
 
 Du O
@@ -146,7 +145,6 @@ suivent O
 la O
 clôture O
 de O
-  O
 I O
 exercice O
 . O
@@ -202,7 +200,6 @@ au O
 décembre end-date
 . O
 de O
-  O
 63 O
 TANT O
 . O
@@ -347,7 +344,6 @@ au O
 31 end-date
 décembre end-date
 . O
-  O
 REPARTIT O
 ] O
 ON O

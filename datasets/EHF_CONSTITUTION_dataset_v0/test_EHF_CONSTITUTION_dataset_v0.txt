@@ -780,7 +780,6 @@ minérales O
 françaises O
 , O
 la O
-  O
 Carbonique O
 liquide O
 de O
@@ -2528,7 +2527,6 @@ ançais chg-status
 en link
 1931 chg-startdate
 . O
-  O
 ET O
 : O
 Filature O
@@ -3176,7 +3174,6 @@ de link
 99 ini-duree
 ans ini-duree
 . O
-  O
 • O
 
 Société ini-status

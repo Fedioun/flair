@@ -355,7 +355,6 @@ Dupéron admin_family_name
 , admin_next_link
 F. admin_name
 de admin_family_name
-  admin_family_name
 Flers admin_family_name
 , admin_next_link
 E. admin_name
@@ -1486,7 +1485,6 @@ Dalle admin_family_name
 G. admin_name
 Haynau admin_family_name
 , admin_next_link
-  admin_next_link
 A. admin_name
 Seitert admin_family_name
 . O
@@ -2767,7 +2765,6 @@ Artois admin_comment
 M. admin_comment_link
 E. admin_name
 de admin_family_name
-  admin_family_name
 Ribes admin_family_name
 ) admin_next_link
 , admin_next_link
@@ -4841,7 +4838,6 @@ Mical admin_family_name
 G. admin_name
 Robert admin_family_name
 , admin_next_link
-  admin_next_link
 L. admin_name
 Sicot admin_family_name
 , admin_next_link
@@ -4896,7 +4892,6 @@ Boysson admin_family_name
 . admin_next_link
 Mo admin_family_name
 .. admin_family_name
-  admin_family_name
 lezieux admin_family_name
 - admin_family_name
 Dehon admin_family_name
@@ -5073,7 +5068,6 @@ Jombart admin_family_name
 P. admin_name
 Lévèque admin_family_name
 , admin_next_link
-  admin_next_link
 L. admin_name
 Marrey admin_family_name
 . O
@@ -5150,7 +5144,6 @@ Moreau admin_family_name
 F. admin_name
 Varenne admin_family_name
 , admin_next_link
-  admin_next_link
 G. admin_name
 Deleau admin_family_name
 , admin_next_link
@@ -5521,7 +5514,6 @@ Sté admin_comment
 Française admin_comment
 de admin_comment
 ' admin_comment
-  admin_comment
 . admin_comment
 Pétroles admin_comment
 BP admin_comment

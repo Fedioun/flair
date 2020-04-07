@@ -32,7 +32,6 @@ pour Coup_comment
 1 Coup_comment
 ) Coup_comment
 ; O
-  O
 10 Coup_nb
 ( Coup_nb
 13 Coup_date
@@ -92,7 +91,6 @@ fr Coup_currency
 10 Coup_nb
 ( Coup_nb
 10 Coup_date
-  Coup_date
 juin Coup_date
 1959 Coup_date
 ) Coup_nb
@@ -267,7 +265,6 @@ juillet Coup_date
 ) Coup_nb
 , Coup_nb
 2,01 Coup_amount
-  O
 Actions Coup_security
 de Coup_security
 jouissance Coup_security
@@ -357,7 +354,6 @@ fr Coup_currency
 122 Coup_date
 juil Coup_date
 . Coup_date
-  Coup_date
 19581 Coup_date
 , Coup_nb
 802 Coup_amount
@@ -583,7 +579,6 @@ droit Coup_comment
 d Coup_comment
 ' Coup_comment
 attribution Coup_comment
-  Coup_comment
 ( Coup_comment
 1 Coup_comment
 pour Coup_comment
@@ -725,7 +720,6 @@ fr Coup_currency
 ; O
 2 O
 2 Coup_nb
-  Coup_nb
 droit Coup_comment
 d' Coup_comment
 attribution Coup_comment
@@ -828,7 +822,6 @@ fr Coup_currency
 1 Coup_date
 . Coup_date
 juin Coup_date
-  Coup_date
 1959 Coup_date
 ) Coup_nb
 , Coup_nb
@@ -913,7 +906,6 @@ souscription Coup_comment
 1 Coup_comment
 pour Coup_comment
 III Coup_comment
-  Coup_comment
 5 Coup_nb
 ( Coup_nb
 2mai Coup_date
@@ -1282,7 +1274,6 @@ juillet Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 1 Coup_nb
 ( Coup_nb
 2 Coup_date
@@ -1724,7 +1715,6 @@ sh Coup_currency
 d. Coup_currency
 43 Coup_amount
 . O
-  O
 DIV O
 . O
 BRUT O
@@ -1790,7 +1780,6 @@ octobre Coup_date
 2,28 Coup_amount
 NF Coup_currency
 . O
-  O
 Actions Coup_security
 de Coup_security
 priorité Coup_security
@@ -2178,7 +2167,6 @@ pour Coup_comment
 5 Coup_comment
 ) Coup_comment
 ; O
-  O
 20 Coup_nb
 droit Coup_comment
 d Coup_comment
@@ -2268,7 +2256,6 @@ souscription Coup_comment
 ( Coup_comment
 1 Coup_comment
 pour Coup_comment
-  Coup_comment
 5 Coup_comment
 ) Coup_comment
 ; O
@@ -2528,7 +2515,6 @@ A Coup_security
 droit Coup_comment
 de Coup_comment
 souscrip- Coup_comment
-  Coup_comment
 tion Coup_comment
 ( Coup_comment
 1 Coup_comment
@@ -2662,7 +2648,6 @@ attribution Coup_comment
 ( Coup_comment
 1 Coup_comment
 pour Coup_comment
-  Coup_comment
 20 Coup_comment
 ) Coup_comment
 ; O
@@ -2762,7 +2747,6 @@ juillet Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 I1 Coup_nb
 ( Coup_nb
 16 Coup_date
@@ -2874,7 +2858,6 @@ décembre Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 41 Coup_nb
 ( Coup_nb
 1 Coup_date
@@ -2977,7 +2960,6 @@ pour Coup_comment
 6 Coup_comment
 ) Coup_comment
 ; O
-  O
 4 Coup_nb
 ( Coup_nb
 21 Coup_date
@@ -3293,7 +3275,6 @@ juin Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 7 Coup_nb
 droit Coup_comment
 d Coup_comment
@@ -3386,7 +3367,6 @@ juillet Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 6 Coup_nb
 droit Coup_comment
 de Coup_comment
@@ -3550,7 +3530,6 @@ juillet Coup_date
 1958 Coup_date
 ) Coup_nb
 , Coup_nb
-  Coup_nb
 528 Coup_amount
 fr Coup_currency
 . O
@@ -3756,7 +3735,6 @@ octobre Coup_date
 5,50 Coup_amount
 Né Coup_currency
 . O
-  O
 Parts Coup_security
 : O
 Nec O
@@ -3886,7 +3864,6 @@ fr Coup_currency
 I Coup_date
 er Coup_date
 juil- Coup_date
-  Coup_date
 let Coup_date
 1957 Coup_date
 ) Coup_nb
@@ -4221,7 +4198,6 @@ juillet Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 5 Coup_nb
 ( Coup_nb
 15 Coup_date
@@ -4290,7 +4266,6 @@ fr Coup_currency
 ; O
 29 Coup_nb
 droit Coup_comment
-  Coup_comment
 d' Coup_comment
 attribution Coup_comment
 ; Coup_comment
@@ -4469,7 +4444,6 @@ février Coup_date
 fr Coup_currency
 . O
 : O
-  O
 10 Coup_nb
 droit Coup_comment
 de Coup_comment
@@ -4651,7 +4625,6 @@ anciennes Coup_security
 fr Coup_currency
 . Coup_nb
 actions Coup_security
-  Coup_security
 nouvelles Coup_security
 ; O
 56 Coup_nb
@@ -4743,7 +4716,6 @@ dollars Coup_currency
 ( Coup_nb
 6 Coup_date
 moi Coup_date
-  Coup_date
 1957 Coup_date
 ) Coup_nb
 , Coup_nb
@@ -4913,7 +4885,6 @@ février Coup_date
 1958 Coup_date
 ) Coup_nb
 , Coup_nb
-  Coup_nb
 1 Coup_amount
 sh Coup_currency
 . Coup_currency
@@ -5058,7 +5029,6 @@ pour Coup_comment
 1 Coup_comment
 ) Coup_comment
 ; O
-  O
 4 Coup_nb
 ( Coup_nb
 31 Coup_date
@@ -5307,7 +5277,6 @@ mai Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 8 Coup_nb
 ( Coup_nb
 11 Coup_date
@@ -5509,7 +5478,6 @@ octobre Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 12 Coup_nb
 : Coup_nb
 droit Coup_comment
@@ -5927,7 +5895,6 @@ sh Coup_currency
 , Coup_nb
 8 Coup_amount
 d. Coup_currency
-  O
 Actions Coup_security
 deferred Coup_security
 : O
@@ -5996,7 +5963,6 @@ mai Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 • O
 7 Coup_nb
 ( Coup_nb
@@ -6218,7 +6184,6 @@ fr Coup_currency
 Pi Coup_date
 , Coup_date
 CH Coup_date
-  Coup_date
 1957 Coup_date
 ) Coup_nb
 , Coup_nb
@@ -6356,7 +6321,6 @@ pour Coup_comment
 2 Coup_comment
 ) Coup_comment
 ; O
-  O
 6 Coup_nb
 ( Coup_nb
 2 Coup_date
@@ -6452,7 +6416,6 @@ de Coup_comment
 capital Coup_comment
 nominal Coup_comment
 ) Coup_comment
-  O
 5 Coup_nb
 ( Coup_nb
 26 Coup_date
@@ -6641,7 +6604,6 @@ Françaises Coup_comment
 d Coup_comment
 ' Coup_comment
 Al- Coup_comment
-  Coup_comment
 gérie Coup_comment
 ( Coup_comment
 1 Coup_comment
@@ -6883,7 +6845,6 @@ C.F.A. O
 ( Coup_nb
 19 Coup_date
 octobre Coup_date
-  Coup_date
 1959 Coup_date
 ) Coup_nb
 , Coup_nb
@@ -6931,7 +6892,6 @@ pour Coup_comment
 droit Coup_comment
 de Coup_comment
 souscription Coup_comment
-  Coup_comment
 I Coup_comment
 pour Coup_comment
 2 Coup_comment
@@ -7064,7 +7024,6 @@ T Coup_currency
 , Coup_currency
 F Coup_currency
 A Coup_currency
-  O
 3 Coup_nb
 ( Coup_nb
 27 Coup_date
@@ -7245,7 +7204,6 @@ fr Coup_currency
 Remboursement Coup_modality
 capital Coup_modality
 . O
-  O
 12 Coup_nb
 ( Coup_nb
 30 Coup_date
@@ -7341,7 +7299,6 @@ décembre Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 • O
 6 Coup_nb
 ( Coup_nb
@@ -7503,7 +7460,6 @@ juillet Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 53 Coup_nb
 ( Coup_nb
 15 Coup_date
@@ -8093,7 +8049,6 @@ r Coup_nb
 droit Coup_comment
 de Coup_comment
 sous- Coup_comment
-  Coup_comment
 cription Coup_comment
 ( Coup_comment
 1 Coup_comment
@@ -8235,7 +8190,6 @@ juillet Coup_date
 3,28 Coup_amount
 NF Coup_currency
 . O
-  O
 Actions Coup_security
 de Coup_security
 capital Coup_security
@@ -8515,7 +8469,6 @@ fr Coup_currency
 droit Coup_comment
 de Coup_comment
 souscription Coup_comment
-  Coup_comment
 ( Coup_comment
 2 Coup_comment
 pour Coup_comment
@@ -8680,7 +8633,6 @@ juillet Coup_date
 1957 Coup_date
 ) Coup_nb
 , Coup_nb
-  Coup_nb
 300 Coup_amount
 fr Coup_currency
 . O
@@ -8785,7 +8737,6 @@ décembre Coup_date
 814 Coup_amount
 fr Coup_currency
 . O
-  O
 9 Coup_nb
 ( Coup_nb
 24 Coup_date
@@ -8881,7 +8832,6 @@ juin Coup_date
 2,96 Coup_amount
 NF Coup_currency
 ; O
-  O
 10 Coup_nb
 ( Coup_nb
 5 Coup_date
@@ -9274,7 +9224,6 @@ juillet Coup_date
 fr Coup_currency
 . O
 ; O
-  O
 24 Coup_nb
 droit Coup_comment
 d Coup_comment

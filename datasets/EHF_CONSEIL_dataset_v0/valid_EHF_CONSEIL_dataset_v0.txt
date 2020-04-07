@@ -319,7 +319,6 @@ Rist admin_family_name
 , admin_next_link
 R.H. admin_name
 Demuth admin_family_name
-  admin_next_link
 S.R. admin_name
 Cope admin_family_name
 , admin_next_link
@@ -419,7 +418,6 @@ Colin admin_name
 Baxter admin_family_name
 , admin_next_link
 1 admin_name
-  admin_family_name
 den admin_family_name
 Berg admin_family_name
 , admin_next_link
@@ -594,7 +592,6 @@ V.-P. admin_position
 o admin_title
 r. admin_title
 H admin_name
-  admin_name
 IL admin_name
 : admin_name
 Albarda admin_family_name
@@ -1270,7 +1267,6 @@ Rayer admin_family_name
 , admin_next_link
 Retail admin_family_name
 . O
-  O
 — O
 45 O
 — O
@@ -2002,7 +1998,6 @@ Deganaud admin_family_name
 E. admin_name
 Delagarde admin_family_name
 , admin_next_link
-  admin_next_link
 M. admin_name
 marignier admin_family_name
 . O
@@ -2205,7 +2200,6 @@ Lesieur admin_family_name
 Y. admin_name
 Lyon admin_family_name
 , admin_next_link
-  admin_next_link
 B. admin_name
 Verdier admin_family_name
 . O
@@ -2430,7 +2424,6 @@ Brunei O
 17e O
 ) O
 . O
-  O
 Tél O
 . O
 GAL O
@@ -3929,7 +3922,6 @@ Ch admin_name
 . admin_name
 Schweisguth admin_family_name
 , admin_next_link
-  admin_name
 Trarnier admin_family_name
 . O
 
@@ -4922,7 +4914,6 @@ Paira admin_family_name
 , admin_pos_link
 V.-P. admin_position
 ; admin_comment_link
-  admin_comment_link
 G. admin_name
 d admin_family_name
 ' admin_family_name
@@ -5757,7 +5748,6 @@ strole admin_position
 1 O
 888 O
 81 O
-  O
 J. O
 
 MM O
@@ -6689,7 +6679,6 @@ Jodon admin_family_name
 J. admin_name
 Lemarie admin_family_name
 , admin_next_link
-  admin_next_link
 J. admin_name
 Matarasso admin_family_name
 , admin_next_link
