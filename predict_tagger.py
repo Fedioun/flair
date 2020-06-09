@@ -11,28 +11,34 @@ from mlxtend.plotting import plot_confusion_matrix
 import matplotlib.pyplot as plt
 
 def main():
-    rubric = "CAPITAL"
-    nb_cells = 16
+    corpus = "HB"
+    model = "shuffled"
 
     sets = os.listdir("./datasets")
     for set in sets:
         nb_cells = 16
-        if set.split("_")[0] != "EHF":
+        if set.split("_")[0] != corpus:
             continue
 
-        if set.split("_")[1] == "shuffled":
-            continue
+
+        if model == "shuffled":
             nb_cells = 32
 
+        if model != "shuffled" and set.split("_")[1] != model:
+            continue
+
         print(set)
-        if set.split("_")[1] == "category" :
+        if model == "shuffled" and set.split("_")[1] == "category" :
+            continue
+
+        if set.split("_")[1] != "Stimmrecht":
             continue
 
         predict_tagger(
             setId=set.split("_")[0],
-            nb_cells=32,
+            nb_cells=nb_cells,
             rubric=set.split("_")[1],
-            model="shuffled"
+            model=model
         )
 
 
@@ -44,7 +50,7 @@ def predict_tagger(setId, nb_cells, rubric, model):
 
     suffix = "_dataset"
 
-    model_name = model + "_" + str(nb_cells)+ "_01"
+    model_name = setId + "_" + model + "_" + str(nb_cells)+ "_02"
 
     # this is the folder in which train, test and dev files reside
     id = setId + "_" + rubric + suffix + "_v0"
@@ -143,9 +149,11 @@ def predict_tagger(setId, nb_cells, rubric, model):
     sentences are composed of a list of tags
 '''
 def compute_chunks_metric(y_truths, y_preds):
+    print(len(y_truths), len(y_preds))
     # Check integrity
     assert(len(y_truths) == len(y_preds))
     for y in range(len(y_truths)):
+        print(len(y_truths[y]), len(y_preds[y]))
         assert(len(y_truths[y]) - len(y_preds[y]) == 0)
 
     nb_chunk = 0

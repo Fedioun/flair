@@ -6,41 +6,61 @@ import json, os, random
 
 
 def main():
-    generate_shuffled_dataset()
+
+    generate_shuffled_dataset(
+        setId="HB",
+        input_folder="/home/nosmoth/Documents/EurHisFirm/" +  "HandBuch",
+    )
     exit()
-    rubric = "CHIFFRE_D_AFFAIRES"
-    file =  "datasets_" + rubric + ".json"
-    input_folder = "/home/nosmoth/Documents/EurHisFirm/" + "datasets_french_rubrics"
-    input_file =  os.path.join(input_folder, file)
+    input_folder = "/home/nosmoth/Documents/EurHisFirm/" + "HandBuch_v2"#"datasets_french_rubrics" #
+    rubricFiles = os.listdir(input_folder)
+    setId = "HB"
 
-    dataset_folder = "./datasets"
-    output_folder = "EHF_" + file.split("_")[1].split(".")[0] + "_dataset_v0"
-    output_fle = os.path.join(dataset_folder, output_folder)
+    for rubricFile in rubricFiles:
+        print(rubricFile)
+        rubric = (rubricFile.split("_")[1]).split(".")[0]
 
-    if not os.path.isdir(dataset_folder):
-        os.mkdir(dataset_folder)
+        input_file =  os.path.join(input_folder, rubricFile)
 
-    if not os.path.isdir(os.path.join(dataset_folder, output_folder)):
-        os.mkdir(os.path.join(dataset_folder, output_folder))
+        dataset_folder = "./datasets"
+        output_folder = setId + "_" + rubric + "_dataset_v0"
 
-    with open(input_file, "r", encoding="utf8") as f:
-        data = json.load(f)
+        if not os.path.isdir(dataset_folder):
+            os.mkdir(dataset_folder)
 
-        sets = ["train", "valid", "test"]
-        for set in sets:
-            output_file = os.path.join(dataset_folder, output_folder, set + "_" + output_folder + ".txt")
-            with open(output_file, "w", encoding="utf8") as out:
+        if not os.path.isdir(os.path.join(dataset_folder, output_folder)):
+            os.mkdir(os.path.join(dataset_folder, output_folder))
+
+        classes = []
+
+        with open(input_file, "r", encoding="utf8") as f:
+            data = json.load(f)
+
+            sets = ["train", "valid", "test"]
+            for set in sets:
+                output_file = os.path.join(dataset_folder, output_folder, set + "_" + output_folder + ".txt")
+                with open(output_file, "w", encoding="utf8") as out:
 
 
-                for rubric in data[set + "-dataset"]:
-                    for token in rubric["text-tags"]:
-                        print(token)
-                        out.write(str(token[0]) + " " + token[1] + "\n")
-                    out.write("\n")
+                    for rubric in data[set + "-dataset"]:
+                        for token in rubric["text-tags"]:
+                            #print(token)
+                            if not token[1] in classes:
+                                classes.append(token[1])
 
-def generate_shuffled_dataset():
-    input_folder = "/home/nosmoth/Documents/EurHisFirm/" + "datasets_french_rubrics"
-    dataset_folder = "./datasets/EHF_shuffled_v0"
+                            if not str(token[0]) == " " and not str(token[0]) == "":
+                                out.write(str(token[0]) + " " + token[1] + " " + str(classes.index(token[1])) + "\n")
+                        out.write("\n")
+
+def generate_shuffled_dataset(
+        setId="HB",
+        input_folder="/home/nosmoth/Documents/EurHisFirm/" +  "HandBuch",
+    ):
+    "datasets_french_rubrics"
+    "HandBuch"
+    id = setId + "_shuffled_dataset_v1"
+
+    dataset_folder = "./datasets/" + id
 
     if not os.path.isdir(dataset_folder):
         os.mkdir(dataset_folder)
@@ -61,11 +81,12 @@ def generate_shuffled_dataset():
 
     for set in dataset.keys():
         random.shuffle(dataset[set])
-        output_file = os.path.join(dataset_folder, set + ".txt")
+        output_file = os.path.join(dataset_folder, set + "_" + id + ".txt")
         with open(output_file, "w", encoding="utf8") as out:
             for rubric in dataset[set]:
                 for token in rubric:
-                    out.write(str(token[0]) + " " + token[1] + "\n")
+                    if not str(token[0]) == " " and not str(token[0]) == "" and not str(token[0]) == "  ":
+                        out.write(str(token[0]) + " " + token[1] + "\n")
                 out.write("\n")
 
 

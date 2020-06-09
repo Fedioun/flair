@@ -1,0 +1,6476 @@
+{
+ "meta": {
+  "type": "yearbook",
+  "year": "1962",
+  "tome": "2",
+  "file": "1962_T2_T_0722.jpg"
+ },
+ "data": [
+  {
+   "type": "issuer",
+   "id": "1",
+   "children": [
+    {
+     "type": "title",
+     "id": "1.1",
+     "zone": [
+      [
+       288,
+       183
+      ],
+      [
+       1725,
+       233
+      ]
+     ],
+     "title": "fa\u00efenceries de sarreguemines, digoin et vitry-le-fran\u00e7ois "
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.1",
+     "zone": [
+      [
+       264,
+       279
+      ],
+      [
+       1745,
+       337
+      ]
+     ],
+     "title": "CONSEIL ",
+     "text": ": MM. J. Cazal, P.-D.G. ; A. Cazal, A. Gauvain, Soci\u00e9t\u00e9 des Kaolins du Morbihan, H. Guillier de Souance, H. Villeroy de Galhau, Comtesse J. de Vogue, H. Yvernault. ",
+     "canonical-title": "FR1962Desfosses.Administrators",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "MM",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "J.",
+       "admin_name"
+      ],
+      [
+       "Cazal",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_pos_link"
+      ],
+      [
+       "P.-D.G.",
+       "admin_position"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "A.",
+       "admin_name"
+      ],
+      [
+       "Cazal",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "A.",
+       "admin_name"
+      ],
+      [
+       "Gauvain",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "Soci\u00e9t\u00e9",
+       "admin_company"
+      ],
+      [
+       "des",
+       "admin_company"
+      ],
+      [
+       "Kaolins",
+       "admin_company"
+      ],
+      [
+       "du",
+       "admin_company"
+      ],
+      [
+       "Morbihan",
+       "admin_company"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "H.",
+       "admin_name"
+      ],
+      [
+       "Guillier",
+       "admin_family_name"
+      ],
+      [
+       "de",
+       "admin_family_name"
+      ],
+      [
+       "Souance",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "H.",
+       "admin_name"
+      ],
+      [
+       "Villeroy",
+       "admin_family_name"
+      ],
+      [
+       "de",
+       "admin_family_name"
+      ],
+      [
+       "Galhau",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "Comtesse",
+       "admin_name"
+      ],
+      [
+       "J.",
+       "admin_family_name"
+      ],
+      [
+       "de",
+       "admin_family_name"
+      ],
+      [
+       "Vogue",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "H.",
+       "admin_name"
+      ],
+      [
+       "Yvernault",
+       "admin_family_name"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.2",
+     "zone": [
+      [
+       263,
+       359
+      ],
+      [
+       1008,
+       388
+      ]
+     ],
+     "title": "COMMISSAIRES AUX COMPTES ",
+     "text": ": MM. M. King, J. Hibon. ",
+     "canonical-title": "FR1962Desfosses.Administrators",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "MM",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "M.",
+       "admin_name"
+      ],
+      [
+       "King",
+       "admin_family_name"
+      ],
+      [
+       ",",
+       "admin_next_link"
+      ],
+      [
+       "J.",
+       "admin_name"
+      ],
+      [
+       "Hibon",
+       "admin_family_name"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.3",
+     "zone": [
+      [
+       263,
+       410
+      ],
+      [
+       1255,
+       441
+      ]
+     ],
+     "title": "SIEGE SOCIAL ",
+     "text": ": Paris (10 ), 28, rue de Paradis. T\u00e9l. PRO. 34-11 \u00e0 34-13. ",
+     "canonical-title": "FR1962Desfosses.Headquarters",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "Paris",
+       "town"
+      ],
+      [
+       "(",
+       "link"
+      ],
+      [
+       "10",
+       "arrond"
+      ],
+      [
+       ")",
+       "link"
+      ],
+      [
+       ",",
+       "link"
+      ],
+      [
+       "28",
+       "no-str"
+      ],
+      [
+       ",",
+       "link"
+      ],
+      [
+       "rue",
+       "str"
+      ],
+      [
+       "de",
+       "str"
+      ],
+      [
+       "Paradis",
+       "str"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "T\u00e9l",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "PRO",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "34",
+       "O"
+      ],
+      [
+       "-",
+       "O"
+      ],
+      [
+       "11",
+       "O"
+      ],
+      [
+       "\u00e0",
+       "O"
+      ],
+      [
+       "34",
+       "O"
+      ],
+      [
+       "-",
+       "O"
+      ],
+      [
+       "13",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.4",
+     "zone": [
+      [
+       262,
+       464
+      ],
+      [
+       1596,
+       498
+      ]
+     ],
+     "title": "CONSTITUTION ",
+     "text": ": Soci\u00e9t\u00e9 anonnyme fran\u00e7aise, constitu\u00e9e le 11 juillet 1913, pour une dur\u00e9e de 75 ans. ",
+     "canonical-title": "FR1962Desfosses.Founding",
+     "text-tags": [
+      [
+       ":",
+       "ini-status"
+      ],
+      [
+       "Soci\u00e9t\u00e9",
+       "ini-status"
+      ],
+      [
+       "anonnyme",
+       "ini-status"
+      ],
+      [
+       "fran\u00e7aise",
+       "ini-status"
+      ],
+      [
+       ",",
+       "link"
+      ],
+      [
+       "constitu\u00e9e",
+       "link"
+      ],
+      [
+       "le",
+       "link"
+      ],
+      [
+       "11",
+       "ini-startdate"
+      ],
+      [
+       "juillet",
+       "ini-startdate"
+      ],
+      [
+       "1913",
+       "ini-startdate"
+      ],
+      [
+       ",",
+       "link"
+      ],
+      [
+       "pour",
+       "link"
+      ],
+      [
+       "une",
+       "link"
+      ],
+      [
+       "dur\u00e9e",
+       "link"
+      ],
+      [
+       "de",
+       "link"
+      ],
+      [
+       "75",
+       "ini-duree"
+      ],
+      [
+       "ans",
+       "ini-duree"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.5",
+     "zone": [
+      [
+       263,
+       517
+      ],
+      [
+       1745,
+       572
+      ]
+     ],
+     "title": "OBJET ",
+     "text": "La fabrication et le commerce de la faience et de tous produits c\u00e9ramiques. Usines \u00e0 Sarreguemines, Digoin, Vitry-le-Fran\u00e7ois. ",
+     "canonical-title": "FR1962Desfosses.Object",
+     "text-tags": [
+      [
+       "La",
+       "O"
+      ],
+      [
+       "fabrication",
+       "O"
+      ],
+      [
+       "et",
+       "O"
+      ],
+      [
+       "le",
+       "O"
+      ],
+      [
+       "commerce",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "la",
+       "O"
+      ],
+      [
+       "faience",
+       "O"
+      ],
+      [
+       "et",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "tous",
+       "O"
+      ],
+      [
+       "produits",
+       "O"
+      ],
+      [
+       "c\u00e9ramiques",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Usines",
+       "O"
+      ],
+      [
+       "\u00e0",
+       "O"
+      ],
+      [
+       "Sarreguemines",
+       "O"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "Digoin",
+       "O"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "Vitry-le-Fran\u00e7ois",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.6",
+     "zone": [
+      [
+       261,
+       597
+      ],
+      [
+       1745,
+       812
+      ]
+     ],
+     "title": "CAPITAL ",
+     "text": ": 14.400.000 NF, divis\u00e9 en 144.000 actions de 100 NF. A l'origine, 15 millions de fr. Par \u00e9tapes successives, le capital avait atteint 90 millions en 1946. Port\u00e9 en 1947 \u00e0 180 millions par \u00e9l\u00e9vation du nominal des actions de 2.500 \u00e0 5.000 fr.\u00ee en 1950 \u00e0 360 mil- lions par cr\u00e9ation de 36.000 actions gratuites de 5.000 fr. (1 pour 1); en 1958 \u00e0 720 millions par \u00e9l\u00e9vation du nominal \u00e0 10.000 fr. Converti le 1 janvier 1960 en 7.200.000 NF. Port\u00e9 en 1961 \u00e0 14.400.000 NF par cr\u00e9ation de 72.000 actions gratuites de 100 NF (1 pour 1). ",
+     "canonical-title": "FR1962Desfosses.Capital",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "14.400.000",
+       "last-amount"
+      ],
+      [
+       "NF",
+       "currency"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "divis\u00e9",
+       "O"
+      ],
+      [
+       "en",
+       "O"
+      ],
+      [
+       "144.000",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "100",
+       "O"
+      ],
+      [
+       "NF",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "A",
+       "Ini-date"
+      ],
+      [
+       "l",
+       "Ini-date"
+      ],
+      [
+       "'",
+       "Ini-date"
+      ],
+      [
+       "origine",
+       "Ini-date"
+      ],
+      [
+       ",",
+       "link"
+      ],
+      [
+       "15",
+       "Ini-amount"
+      ],
+      [
+       "millions",
+       "Ini-amount"
+      ],
+      [
+       "de",
+       "link"
+      ],
+      [
+       "fr",
+       "currency"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Par",
+       "O"
+      ],
+      [
+       "\u00e9tapes",
+       "O"
+      ],
+      [
+       "successives",
+       "O"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "le",
+       "O"
+      ],
+      [
+       "capital",
+       "O"
+      ],
+      [
+       "avait",
+       "O"
+      ],
+      [
+       "atteint",
+       "O"
+      ],
+      [
+       "90",
+       "chg-amount"
+      ],
+      [
+       "millions",
+       "chg-amount"
+      ],
+      [
+       "en",
+       "link"
+      ],
+      [
+       "1946",
+       "chg-date"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Port\u00e9",
+       "O"
+      ],
+      [
+       "en",
+       "O"
+      ],
+      [
+       "1947",
+       "chg-date"
+      ],
+      [
+       "\u00e0",
+       "link"
+      ],
+      [
+       "180",
+       "chg-amount"
+      ],
+      [
+       "millions",
+       "chg-amount"
+      ],
+      [
+       "par",
+       "O"
+      ],
+      [
+       "\u00e9l\u00e9vation",
+       "O"
+      ],
+      [
+       "du",
+       "O"
+      ],
+      [
+       "nominal",
+       "O"
+      ],
+      [
+       "des",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "2.500",
+       "O"
+      ],
+      [
+       "\u00e0",
+       "O"
+      ],
+      [
+       "5.000",
+       "O"
+      ],
+      [
+       "fr.\u00ee",
+       "O"
+      ],
+      [
+       "en",
+       "O"
+      ],
+      [
+       "1950",
+       "chg-date"
+      ],
+      [
+       "\u00e0",
+       "link"
+      ],
+      [
+       "360",
+       "chg-amount"
+      ],
+      [
+       "mil-",
+       "chg-amount"
+      ],
+      [
+       "lions",
+       "chg-amount"
+      ],
+      [
+       "par",
+       "O"
+      ],
+      [
+       "cr\u00e9ation",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "36.000",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       "gratuites",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "5.000",
+       "O"
+      ],
+      [
+       "fr",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "(",
+       "O"
+      ],
+      [
+       "1",
+       "O"
+      ],
+      [
+       "pour",
+       "O"
+      ],
+      [
+       "1",
+       "O"
+      ],
+      [
+       ")",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "en",
+       "O"
+      ],
+      [
+       "1958",
+       "chg-date"
+      ],
+      [
+       "\u00e0",
+       "link"
+      ],
+      [
+       "720",
+       "chg-amount"
+      ],
+      [
+       "millions",
+       "chg-amount"
+      ],
+      [
+       "par",
+       "O"
+      ],
+      [
+       "\u00e9l\u00e9vation",
+       "O"
+      ],
+      [
+       "du",
+       "O"
+      ],
+      [
+       "nominal",
+       "O"
+      ],
+      [
+       "\u00e0",
+       "O"
+      ],
+      [
+       "10.000",
+       "O"
+      ],
+      [
+       "fr",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Converti",
+       "O"
+      ],
+      [
+       "le",
+       "O"
+      ],
+      [
+       "1",
+       "chg-date"
+      ],
+      [
+       "janvier",
+       "chg-date"
+      ],
+      [
+       "1960",
+       "chg-date"
+      ],
+      [
+       "en",
+       "link"
+      ],
+      [
+       "7.200.000",
+       "chg-amount"
+      ],
+      [
+       "NF",
+       "currency"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Port\u00e9",
+       "O"
+      ],
+      [
+       "en",
+       "O"
+      ],
+      [
+       "1961",
+       "chg-date"
+      ],
+      [
+       "\u00e0",
+       "link"
+      ],
+      [
+       "14.400.000",
+       "chg-amount"
+      ],
+      [
+       "NF",
+       "currency"
+      ],
+      [
+       "par",
+       "O"
+      ],
+      [
+       "cr\u00e9ation",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "72.000",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       "gratuites",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "100",
+       "O"
+      ],
+      [
+       "NF",
+       "O"
+      ],
+      [
+       "(",
+       "O"
+      ],
+      [
+       "1",
+       "O"
+      ],
+      [
+       "pour",
+       "O"
+      ],
+      [
+       "1",
+       "O"
+      ],
+      [
+       ")",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.7",
+     "zone": [
+      [
+       261,
+       836
+      ],
+      [
+       929,
+       862
+      ]
+     ],
+     "title": "ASSEMBLEE GENERALE ",
+     "text": "; En novembre ou d\u00e9cembre. ",
+     "canonical-title": "FR1962Desfosses.Assembly",
+     "text-tags": [
+      [
+       ";",
+       "O"
+      ],
+      [
+       "En",
+       "O"
+      ],
+      [
+       "novembre",
+       "O"
+      ],
+      [
+       "ou",
+       "O"
+      ],
+      [
+       "d\u00e9cembre",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.8",
+     "zone": [
+      [
+       260,
+       887
+      ],
+      [
+       1743,
+       951
+      ]
+     ],
+     "title": "REPARTITION DES BENEFICES ",
+     "text": ": 5 % \u00e0 la r\u00e9serve l\u00e9gale, 5 % d'int\u00e9r\u00eat aux actions. Sur le surplus pr\u00e9l\u00e8vements facultatifs pour r\u00e9serves ou amortissements, ou report \u00e0 nouveau; 10 % au Conseil ; le solde aux actions. ",
+     "canonical-title": "FR1962Desfosses.ProfitDistribution",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "5",
+       "O"
+      ],
+      [
+       "%",
+       "O"
+      ],
+      [
+       "\u00e0",
+       "O"
+      ],
+      [
+       "la",
+       "O"
+      ],
+      [
+       "r\u00e9serve",
+       "O"
+      ],
+      [
+       "l\u00e9gale",
+       "O"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "5",
+       "O"
+      ],
+      [
+       "%",
+       "O"
+      ],
+      [
+       "d'",
+       "O"
+      ],
+      [
+       "int\u00e9r\u00eat",
+       "O"
+      ],
+      [
+       "aux",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Sur",
+       "O"
+      ],
+      [
+       "le",
+       "O"
+      ],
+      [
+       "surplus",
+       "O"
+      ],
+      [
+       "pr\u00e9l\u00e8vements",
+       "O"
+      ],
+      [
+       "facultatifs",
+       "O"
+      ],
+      [
+       "pour",
+       "O"
+      ],
+      [
+       "r\u00e9serves",
+       "O"
+      ],
+      [
+       "ou",
+       "O"
+      ],
+      [
+       "amortissements",
+       "O"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "ou",
+       "O"
+      ],
+      [
+       "report",
+       "O"
+      ],
+      [
+       "\u00e0",
+       "O"
+      ],
+      [
+       "nouveau",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "10",
+       "O"
+      ],
+      [
+       "%",
+       "O"
+      ],
+      [
+       "au",
+       "O"
+      ],
+      [
+       "Conseil",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "le",
+       "O"
+      ],
+      [
+       "solde",
+       "O"
+      ],
+      [
+       "aux",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.9",
+     "zone": [
+      [
+       262,
+       967
+      ],
+      [
+       888,
+       994
+      ]
+     ],
+     "title": "LIQUIDATION ",
+     "text": "; Suivant d\u00e9cision de l'Assembl\u00e9e. ",
+     "canonical-title": "FR1962Desfosses.Liquidation",
+     "text-tags": [
+      [
+       ";",
+       "O"
+      ],
+      [
+       "Suivant",
+       "O"
+      ],
+      [
+       "d\u00e9cision",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "l'",
+       "O"
+      ],
+      [
+       "Assembl\u00e9e",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.10",
+     "zone": [
+      [
+       261,
+       1019
+      ],
+      [
+       1745,
+       1069
+      ]
+     ],
+     "title": "SERVICE FINANCIER ET TRANSFERTS ",
+     "text": ": Si\u00e8ge social. Cr\u00e9dit Industriel et Commercial, Cr\u00e9dit Industriel d'Alsace et de Lorraine. ",
+     "canonical-title": "FR1962Desfosses.FinancialServices",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "Si\u00e8ge",
+       "O"
+      ],
+      [
+       "social",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Cr\u00e9dit",
+       "O"
+      ],
+      [
+       "Industriel",
+       "O"
+      ],
+      [
+       "et",
+       "O"
+      ],
+      [
+       "Commercial",
+       "O"
+      ],
+      [
+       ",",
+       "O"
+      ],
+      [
+       "Cr\u00e9dit",
+       "O"
+      ],
+      [
+       "Industriel",
+       "O"
+      ],
+      [
+       "d'",
+       "O"
+      ],
+      [
+       "Alsace",
+       "O"
+      ],
+      [
+       "et",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "Lorraine",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.11",
+     "zone": [
+      [
+       263,
+       1098
+      ],
+      [
+       1503,
+       1135
+      ]
+     ],
+     "title": "COTATION ",
+     "text": "Parquet \u00ab Cote Desfoss\u00e9s \u00bb actions 8 et Bourse de Nancy. Notice SEF VD 25. ",
+     "canonical-title": "FR1962Desfosses.Quotation",
+     "text-tags": [
+      [
+       "Parquet",
+       "O"
+      ],
+      [
+       "\u00ab",
+       "O"
+      ],
+      [
+       "Cote",
+       "O"
+      ],
+      [
+       "Desfoss\u00e9s",
+       "O"
+      ],
+      [
+       "\u00bb",
+       "O"
+      ],
+      [
+       "actions",
+       "O"
+      ],
+      [
+       "8",
+       "O"
+      ],
+      [
+       "et",
+       "O"
+      ],
+      [
+       "Bourse",
+       "O"
+      ],
+      [
+       "de",
+       "O"
+      ],
+      [
+       "Nancy",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       "Notice",
+       "O"
+      ],
+      [
+       "SEF",
+       "O"
+      ],
+      [
+       "VD",
+       "O"
+      ],
+      [
+       "25",
+       "O"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.12",
+     "zone": [
+      [
+       260,
+       1151
+      ],
+      [
+       1744,
+       1239
+      ]
+     ],
+     "title": "COUPONS NETS ",
+     "text": ": N\u00b0* 37 (20 d\u00e9cembre 1956), 802 fr.; 38 (20 d\u00e9cembre 1957); 882 fr. ; 39 (28 novembre 1958), 1.000 fr. ; 40 (20 d\u00e9cembre 1959), 700 fr. ; 41 (20 d\u00e9cembre 1960), 10 NF ; 42 (20 d\u00e9cembre 1961), 10 NF ; 43: droit d'attribution (1 pour 1). ",
+     "canonical-title": "FR1962Desfosses.Coupons",
+     "text-tags": [
+      [
+       ":",
+       "O"
+      ],
+      [
+       "N",
+       "O"
+      ],
+      [
+       "\u00b0",
+       "O"
+      ],
+      [
+       "*",
+       "O"
+      ],
+      [
+       "37",
+       "Coup_nb"
+      ],
+      [
+       "(",
+       "Coup_link"
+      ],
+      [
+       "20",
+       "Coup_date"
+      ],
+      [
+       "d\u00e9cembre",
+       "Coup_date"
+      ],
+      [
+       "1956",
+       "Coup_date"
+      ],
+      [
+       ")",
+       "Coup_link"
+      ],
+      [
+       ",",
+       "Coup_link"
+      ],
+      [
+       "802",
+       "Coup_amount"
+      ],
+      [
+       "fr",
+       "Coup_currency"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "38",
+       "Coup_nb"
+      ],
+      [
+       "(",
+       "Coup_link"
+      ],
+      [
+       "20",
+       "Coup_date"
+      ],
+      [
+       "d\u00e9cembre",
+       "Coup_date"
+      ],
+      [
+       "1957",
+       "Coup_date"
+      ],
+      [
+       ")",
+       "Coup_link"
+      ],
+      [
+       ";",
+       "Coup_link"
+      ],
+      [
+       "882",
+       "Coup_amount"
+      ],
+      [
+       "fr",
+       "Coup_currency"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "39",
+       "Coup_nb"
+      ],
+      [
+       "(",
+       "Coup_link"
+      ],
+      [
+       "28",
+       "Coup_date"
+      ],
+      [
+       "novembre",
+       "Coup_date"
+      ],
+      [
+       "1958",
+       "Coup_date"
+      ],
+      [
+       ")",
+       "Coup_link"
+      ],
+      [
+       ",",
+       "Coup_link"
+      ],
+      [
+       "1.000",
+       "Coup_amount"
+      ],
+      [
+       "fr",
+       "Coup_currency"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "40",
+       "Coup_nb"
+      ],
+      [
+       "(",
+       "Coup_link"
+      ],
+      [
+       "20",
+       "Coup_date"
+      ],
+      [
+       "d\u00e9cembre",
+       "Coup_date"
+      ],
+      [
+       "1959",
+       "Coup_date"
+      ],
+      [
+       ")",
+       "Coup_link"
+      ],
+      [
+       ",",
+       "Coup_link"
+      ],
+      [
+       "700",
+       "Coup_amount"
+      ],
+      [
+       "fr",
+       "Coup_currency"
+      ],
+      [
+       ".",
+       "O"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "41",
+       "Coup_nb"
+      ],
+      [
+       "(",
+       "Coup_link"
+      ],
+      [
+       "20",
+       "Coup_date"
+      ],
+      [
+       "d\u00e9cembre",
+       "Coup_date"
+      ],
+      [
+       "1960",
+       "Coup_date"
+      ],
+      [
+       ")",
+       "Coup_link"
+      ],
+      [
+       ",",
+       "Coup_link"
+      ],
+      [
+       "10",
+       "Coup_amount"
+      ],
+      [
+       "NF",
+       "Coup_currency"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "42",
+       "Coup_nb"
+      ],
+      [
+       "(",
+       "Coup_link"
+      ],
+      [
+       "20",
+       "Coup_date"
+      ],
+      [
+       "d\u00e9cembre",
+       "Coup_date"
+      ],
+      [
+       "1961",
+       "Coup_date"
+      ],
+      [
+       ")",
+       "Coup_link"
+      ],
+      [
+       ",",
+       "Coup_link"
+      ],
+      [
+       "10",
+       "Coup_amount"
+      ],
+      [
+       "NF",
+       "Coup_currency"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "43",
+       "Coup_nb"
+      ],
+      [
+       ":",
+       "Coup_link"
+      ],
+      [
+       "droit",
+       "Coup_comment"
+      ],
+      [
+       "d",
+       "Coup_comment"
+      ],
+      [
+       "'",
+       "Coup_comment"
+      ],
+      [
+       "attribution",
+       "Coup_comment"
+      ],
+      [
+       "(",
+       "Coup_comment"
+      ],
+      [
+       "1",
+       "Coup_comment"
+      ],
+      [
+       "pour",
+       "Coup_comment"
+      ],
+      [
+       "1",
+       "Coup_comment"
+      ],
+      [
+       ")",
+       "Coup_comment"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "rubric",
+     "id": "1.2.13",
+     "zone": [
+      [
+       260,
+       1257
+      ],
+      [
+       1275,
+       1295
+      ]
+     ],
+     "title": "CHIFFRE D'AFFAIRES ",
+     "text": "(en millions de NF) 1959/60: 45,35 ; 1960/61 : 48,72. ",
+     "canonical-title": "FR1962Desfosses.Sales",
+     "text-tags": [
+      [
+       "(",
+       "O"
+      ],
+      [
+       "en",
+       "currency"
+      ],
+      [
+       "millions",
+       "currency"
+      ],
+      [
+       "de",
+       "currency"
+      ],
+      [
+       "NF",
+       "currency"
+      ],
+      [
+       ")",
+       "O"
+      ],
+      [
+       "1959/60",
+       "year"
+      ],
+      [
+       ":",
+       "link"
+      ],
+      [
+       "45,35",
+       "amount"
+      ],
+      [
+       ";",
+       "O"
+      ],
+      [
+       "1960/61",
+       "year"
+      ],
+      [
+       ":",
+       "link"
+      ],
+      [
+       "48,72",
+       "amount"
+      ],
+      [
+       ".",
+       "O"
+      ]
+     ]
+    },
+    {
+     "type": "balance",
+     "id": "1.3.1",
+     "zone": [
+      [
+       258,
+       1852
+      ],
+      [
+       1741,
+       2431
+      ]
+     ],
+     "title": "BILANS AU 30 JUIN ",
+     "children": [
+      {
+       "type": "table-section",
+       "id": "1.3.1.1",
+       "zone": [
+        [
+         261,
+         1909
+        ],
+        [
+         1741,
+         2111
+        ]
+       ],
+       "title": "PASSIF ",
+       "text-tags": [
+        [
+         "PASSIF",
+         "part_liabilities"
+        ]
+       ],
+       "children": [
+        {
+         "type": "table-line",
+         "id": "1.3.1.1.1",
+         "zone": [
+          [
+           261,
+           1944
+          ],
+          [
+           1741,
+           1974
+          ]
+         ],
+         "title": "A. Capital ",
+         "text-tags": [
+          [
+           "A.",
+           "item"
+          ],
+          [
+           "Capital",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.1.1",
+           "zone": [
+            [
+             905,
+             1947
+            ],
+            [
+             998,
+             1967
+            ]
+           ],
+           "amount": [
+            "360.000 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "360.000 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "A.",
+             "item"
+            ],
+            [
+             "Capital",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "360.000",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.1.2",
+           "zone": [
+            [
+             1089,
+             1947
+            ],
+            [
+             1182,
+             1967
+            ]
+           ],
+           "amount": [
+            "720.000 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "720.000 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "A.",
+             "item"
+            ],
+            [
+             "Capital",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "720.000",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.1.3",
+           "zone": [
+            [
+             1276,
+             1949
+            ],
+            [
+             1369,
+             1970
+            ]
+           ],
+           "amount": [
+            "720.000 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "720.000 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "A.",
+             "item"
+            ],
+            [
+             "Capital",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "720.000",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.1.4",
+           "zone": [
+            [
+             1436,
+             1952
+            ],
+            [
+             1556,
+             1973
+            ]
+           ],
+           "amount": [
+            "7.200.000 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "7.200.000 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "A.",
+             "item"
+            ],
+            [
+             "Capital",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "7.200.000",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.1.5",
+           "zone": [
+            [
+             1620,
+             1953
+            ],
+            [
+             1741,
+             1974
+            ]
+           ],
+           "amount": [
+            "7.200.000 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "7.200.000 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "A.",
+             "item"
+            ],
+            [
+             "Capital",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "7.200.000",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.1.2",
+         "zone": [
+          [
+           347,
+           1970
+          ],
+          [
+           1739,
+           2001
+          ]
+         ],
+         "title": "R\u00e9serves et provisions ",
+         "text-tags": [
+          [
+           "R\u00e9serves",
+           "item"
+          ],
+          [
+           "et",
+           "item"
+          ],
+          [
+           "provisions",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.2.1",
+           "zone": [
+            [
+             883,
+             1972
+            ],
+            [
+             998,
+             1994
+            ]
+           ],
+           "amount": [
+            "2.287.145 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "2.287.145 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "R\u00e9serves",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "provisions",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "2.287.145",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.2.2",
+           "zone": [
+            [
+             1065,
+             1973
+            ],
+            [
+             1181,
+             1994
+            ]
+           ],
+           "amount": [
+            "2.172.486 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "2.172.486 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "R\u00e9serves",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "provisions",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "2.172.486",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.2.3",
+           "zone": [
+            [
+             1253,
+             1975
+            ],
+            [
+             1368,
+             1997
+            ]
+           ],
+           "amount": [
+            "2.308.260 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "2.308.260 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "R\u00e9serves",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "provisions",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "2.308.260",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.2.4",
+           "zone": [
+            [
+             1423,
+             1978
+            ],
+            [
+             1555,
+             1999
+            ]
+           ],
+           "amount": [
+            "23.676.742 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "23.676.742 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "R\u00e9serves",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "provisions",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "23.676.742",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.2.5",
+           "zone": [
+            [
+             1606,
+             1979
+            ],
+            [
+             1739,
+             2001
+            ]
+           ],
+           "amount": [
+            "37.187.353 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "37.187.353 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "R\u00e9serves",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "provisions",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "37.187.353",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.1.3",
+         "zone": [
+          [
+           262,
+           1996
+          ],
+          [
+           1740,
+           2027
+          ]
+         ],
+         "title": "c. Dette flottante ",
+         "text-tags": [
+          [
+           "c.",
+           "item"
+          ],
+          [
+           "Dette",
+           "item"
+          ],
+          [
+           "flottante",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.3.1",
+           "zone": [
+            [
+             906,
+             2000
+            ],
+            [
+             998,
+             2020
+            ]
+           ],
+           "amount": [
+            "483.635 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "483.635 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "c.",
+             "item"
+            ],
+            [
+             "Dette",
+             "item"
+            ],
+            [
+             "flottante",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "483.635",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.3.2",
+           "zone": [
+            [
+             1089,
+             2001
+            ],
+            [
+             1181,
+             2020
+            ]
+           ],
+           "amount": [
+            "514.232 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "514.232 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "c.",
+             "item"
+            ],
+            [
+             "Dette",
+             "item"
+            ],
+            [
+             "flottante",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "514.232",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.3.3",
+           "zone": [
+            [
+             1277,
+             2001
+            ],
+            [
+             1369,
+             2023
+            ]
+           ],
+           "amount": [
+            "412.206 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "412.206 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "c.",
+             "item"
+            ],
+            [
+             "Dette",
+             "item"
+            ],
+            [
+             "flottante",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "412.206",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.3.4",
+           "zone": [
+            [
+             1437,
+             2005
+            ],
+            [
+             1556,
+             2025
+            ]
+           ],
+           "amount": [
+            "5.325.359 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "5.325.359 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "c.",
+             "item"
+            ],
+            [
+             "Dette",
+             "item"
+            ],
+            [
+             "flottante",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "5.325.359",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.3.5",
+           "zone": [
+            [
+             1621,
+             2006
+            ],
+            [
+             1740,
+             2027
+            ]
+           ],
+           "amount": [
+            "5.543.907 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "5.543.907 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "c.",
+             "item"
+            ],
+            [
+             "Dette",
+             "item"
+            ],
+            [
+             "flottante",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "5.543.907",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.1.4",
+         "zone": [
+          [
+           262,
+           2022
+          ],
+          [
+           1735,
+           2054
+          ]
+         ],
+         "title": "D. Dividende et tanti\u00e8mes ",
+         "text-tags": [
+          [
+           "D.",
+           "item"
+          ],
+          [
+           "Dividende",
+           "item"
+          ],
+          [
+           "et",
+           "item"
+          ],
+          [
+           "tanti\u00e8mes",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.4.1",
+           "zone": [
+            [
+             921,
+             2027
+            ],
+            [
+             998,
+             2047
+            ]
+           ],
+           "amount": [
+            "85.980 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "85.980 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "D.",
+             "item"
+            ],
+            [
+             "Dividende",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "tanti\u00e8mes",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "85.980",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.4.2",
+           "zone": [
+            [
+             1104,
+             2027
+            ],
+            [
+             1181,
+             2047
+            ]
+           ],
+           "amount": [
+            "95.750 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "95.750 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "D.",
+             "item"
+            ],
+            [
+             "Dividende",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "tanti\u00e8mes",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "95.750",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.4.3",
+           "zone": [
+            [
+             1291,
+             2028
+            ],
+            [
+             1369,
+             2049
+            ]
+           ],
+           "amount": [
+            "67.795 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "67.795 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "D.",
+             "item"
+            ],
+            [
+             "Dividende",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "tanti\u00e8mes",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "67.795",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.4.4",
+           "zone": [
+            [
+             1424,
+             2031
+            ],
+            [
+             1555,
+             2052
+            ]
+           ],
+           "amount": [
+            "*1.624.774 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "*1.624.774 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "D.",
+             "item"
+            ],
+            [
+             "Dividende",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "tanti\u00e8mes",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "*1.624.774",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.4.5",
+           "zone": [
+            [
+             1607,
+             2033
+            ],
+            [
+             1735,
+             2054
+            ]
+           ],
+           "amount": [
+            "*1 .329.731 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "*1 .329.731 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "D.",
+             "item"
+            ],
+            [
+             "Dividende",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "tanti\u00e8mes",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "*1",
+             "amount"
+            ],
+            [
+             ".329.731",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.1.5",
+         "zone": [
+          [
+           881,
+           2080
+          ],
+          [
+           1734,
+           2111
+          ]
+         ],
+         "title": "TOTAL",
+         "text-tags": [
+          [
+           "Total",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.5.1",
+           "zone": [
+            [
+             881,
+             2080
+            ],
+            [
+             996,
+             2100
+            ]
+           ],
+           "amount": [
+            "3.216.760 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "3.216.760 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "3.216.760",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.5.2",
+           "zone": [
+            [
+             1065,
+             2081
+            ],
+            [
+             1180,
+             2101
+            ]
+           ],
+           "amount": [
+            "3.502.468 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "3.502.468 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "3.502.468",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.5.3",
+           "zone": [
+            [
+             1253,
+             2081
+            ],
+            [
+             1368,
+             2102
+            ]
+           ],
+           "amount": [
+            "3.508.261 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "3.508.261 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "3.508.261",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.5.4",
+           "zone": [
+            [
+             1423,
+             2084
+            ],
+            [
+             1554,
+             2106
+            ]
+           ],
+           "amount": [
+            "37.826.875 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "37.826.875 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "37.826.875",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.1.5.5",
+           "zone": [
+            [
+             1605,
+             2090
+            ],
+            [
+             1734,
+             2111
+            ]
+           ],
+           "amount": [
+            "51.260.991 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "51.260.991 ",
+           "text-tags": [
+            [
+             "PASSIF",
+             "part_liabilities"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "51.260.991",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        }
+       ],
+       "canonical-title": "FR1962Desfosses.BalanceSheet"
+      },
+      {
+       "type": "table-section",
+       "id": "1.3.1.2",
+       "zone": [
+        [
+         258,
+         2095
+        ],
+        [
+         1739,
+         2431
+        ]
+       ],
+       "title": "ACTIF ",
+       "text-tags": [
+        [
+         "ACTIF",
+         "part_assets"
+        ]
+       ],
+       "children": [
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.1",
+         "zone": [
+          [
+           261,
+           2128
+          ],
+          [
+           1734,
+           2163
+          ]
+         ],
+         "title": "F. Immobilis\u00e9 ",
+         "text-tags": [
+          [
+           "F.",
+           "item"
+          ],
+          [
+           "Immobilis\u00e9",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.1.1",
+           "zone": [
+            [
+             882,
+             2133
+            ],
+            [
+             996,
+             2153
+            ]
+           ],
+           "amount": [
+            "1.473.012 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "1.473.012 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "F.",
+             "item"
+            ],
+            [
+             "Immobilis\u00e9",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "1.473.012",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.1.2",
+           "zone": [
+            [
+             1064,
+             2133
+            ],
+            [
+             1180,
+             2154
+            ]
+           ],
+           "amount": [
+            "1.769.956 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "1.769.956 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "F.",
+             "item"
+            ],
+            [
+             "Immobilis\u00e9",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "1.769.956",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.1.3",
+           "zone": [
+            [
+             1253,
+             2139
+            ],
+            [
+             1368,
+             2160
+            ]
+           ],
+           "amount": [
+            "1.930.274 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "1.930.274 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "F.",
+             "item"
+            ],
+            [
+             "Immobilis\u00e9",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "1.930.274",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.1.4",
+           "zone": [
+            [
+             1423,
+             2140
+            ],
+            [
+             1734,
+             2163
+            ]
+           ],
+           "amount": [
+            "20.121.137 (1)23.176.401 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "20.121.137 (1)23.176.401 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "F.",
+             "item"
+            ],
+            [
+             "Immobilis\u00e9",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "20.121.137",
+             "amount"
+            ],
+            [
+             "(1)23.176.401",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.2",
+         "zone": [
+          [
+           344,
+           2155
+          ],
+          [
+           1701,
+           2190
+          ]
+         ],
+         "title": "Amortissements ",
+         "text-tags": [
+          [
+           "Amortissements",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.2.1",
+           "zone": [
+            [
+             903,
+             2160
+            ],
+            [
+             996,
+             2180
+            ]
+           ],
+           "amount": [
+            "499.084 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "499.084 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Amortissements",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "499.084",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.2.2",
+           "zone": [
+            [
+             1087,
+             2161
+            ],
+            [
+             1180,
+             2181
+            ]
+           ],
+           "amount": [
+            "584.534 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "584.534 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Amortissements",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "584.534",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.2.3",
+           "zone": [
+            [
+             1277,
+             2165
+            ],
+            [
+             1368,
+             2186
+            ]
+           ],
+           "amount": [
+            "679.197 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "679.197 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Amortissements",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "679.197",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.2.4",
+           "zone": [
+            [
+             1435,
+             2169
+            ],
+            [
+             1554,
+             2190
+            ]
+           ],
+           "amount": [
+            "7. 536.620 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "7. 536.620 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Amortissements",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "7.",
+             "amount"
+            ],
+            [
+             "536.620",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.2.5",
+           "zone": [
+            [
+             1695,
+             2174
+            ],
+            [
+             1701,
+             2186
+            ]
+           ],
+           "amount": [
+            "",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Amortissements",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.3",
+         "zone": [
+          [
+           904,
+           2213
+          ],
+          [
+           1733,
+           2245
+          ]
+         ],
+         "title": "TOTAL",
+         "text-tags": [
+          [
+           "Total",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.3.1",
+           "zone": [
+            [
+             904,
+             2213
+            ],
+            [
+             996,
+             2234
+            ]
+           ],
+           "amount": [
+            "973.928 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "973.928 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "973.928",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.3.2",
+           "zone": [
+            [
+             1065,
+             2214
+            ],
+            [
+             1180,
+             2235
+            ]
+           ],
+           "amount": [
+            "1.185.422 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "1.185.422 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "1.185.422",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.3.3",
+           "zone": [
+            [
+             1254,
+             2218
+            ],
+            [
+             1368,
+             2239
+            ]
+           ],
+           "amount": [
+            "1.251.077 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "1.251.077 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "1.251.077",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.3.4",
+           "zone": [
+            [
+             1423,
+             2222
+            ],
+            [
+             1554,
+             2242
+            ]
+           ],
+           "amount": [
+            "12.584.517 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "12.584.517 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "12.584.517",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.3.5",
+           "zone": [
+            [
+             1605,
+             2223
+            ],
+            [
+             1733,
+             2245
+            ]
+           ],
+           "amount": [
+            "23.176.401 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "23.176.401 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "23.176.401",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.4",
+         "zone": [
+          [
+           344,
+           2261
+          ],
+          [
+           1738,
+           2298
+          ]
+         ],
+         "title": "Titres et participations ",
+         "text-tags": [
+          [
+           "Titres",
+           "item"
+          ],
+          [
+           "et",
+           "item"
+          ],
+          [
+           "participations",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.4.1",
+           "zone": [
+            [
+             902,
+             2266
+            ],
+            [
+             994,
+             2286
+            ]
+           ],
+           "amount": [
+            "241.568 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "241.568 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Titres",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "participations",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "241.568",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.4.2",
+           "zone": [
+            [
+             1084,
+             2268
+            ],
+            [
+             1177,
+             2288
+            ]
+           ],
+           "amount": [
+            "238.410 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "238.410 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Titres",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "participations",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "238.410",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.4.3",
+           "zone": [
+            [
+             1275,
+             2271
+            ],
+            [
+             1366,
+             2292
+            ]
+           ],
+           "amount": [
+            "250.252 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "250.252 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Titres",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "participations",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "250.252",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.4.4",
+           "zone": [
+            [
+             1436,
+             2275
+            ],
+            [
+             1552,
+             2296
+            ]
+           ],
+           "amount": [
+            "1.839.174 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "1.839.174 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Titres",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "participations",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "1.839.174",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.4.5",
+           "zone": [
+            [
+             1620,
+             2276
+            ],
+            [
+             1738,
+             2298
+            ]
+           ],
+           "amount": [
+            "2.502.785 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "2.502.785 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Titres",
+             "item"
+            ],
+            [
+             "et",
+             "item"
+            ],
+            [
+             "participations",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "2.502.785",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.5",
+         "zone": [
+          [
+           258,
+           2287
+          ],
+          [
+           1739,
+           2325
+          ]
+         ],
+         "title": "G. Stocks ",
+         "text-tags": [
+          [
+           "G.",
+           "item"
+          ],
+          [
+           "Stocks",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.5.1",
+           "zone": [
+            [
+             902,
+             2294
+            ],
+            [
+             994,
+             2313
+            ]
+           ],
+           "amount": [
+            "868.997 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "868.997 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "G.",
+             "item"
+            ],
+            [
+             "Stocks",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "868.997",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.5.2",
+           "zone": [
+            [
+             1084,
+             2294
+            ],
+            [
+             1177,
+             2315
+            ]
+           ],
+           "amount": [
+            "948.364 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "948.364 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "G.",
+             "item"
+            ],
+            [
+             "Stocks",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "948.364",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.5.3",
+           "zone": [
+            [
+             1274,
+             2298
+            ],
+            [
+             1366,
+             2319
+            ]
+           ],
+           "amount": [
+            "941.587 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "941.587 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "G.",
+             "item"
+            ],
+            [
+             "Stocks",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "941.587",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.5.4",
+           "zone": [
+            [
+             1434,
+             2302
+            ],
+            [
+             1552,
+             2323
+            ]
+           ],
+           "amount": [
+            "9.718.484 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "9.718.484 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "G.",
+             "item"
+            ],
+            [
+             "Stocks",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "9.718.484",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.5.5",
+           "zone": [
+            [
+             1607,
+             2303
+            ],
+            [
+             1739,
+             2325
+            ]
+           ],
+           "amount": [
+            "10.758.614 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "10.758.614 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "G.",
+             "item"
+            ],
+            [
+             "Stocks",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "10.758.614",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.6",
+         "zone": [
+          [
+           345,
+           2314
+          ],
+          [
+           1733,
+           2351
+          ]
+         ],
+         "title": "D\u00e9biteurs ",
+         "text-tags": [
+          [
+           "D\u00e9biteurs",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.6.1",
+           "zone": [
+            [
+             903,
+             2319
+            ],
+            [
+             995,
+             2337
+            ]
+           ],
+           "amount": [
+            "",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "D\u00e9biteurs",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.6.2",
+           "zone": [
+            [
+             1086,
+             2321
+            ],
+            [
+             1177,
+             2341
+            ]
+           ],
+           "amount": [
+            "505.495 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "505.495 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "D\u00e9biteurs",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "505.495",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.6.3",
+           "zone": [
+            [
+             1274,
+             2325
+            ],
+            [
+             1365,
+             2345
+            ]
+           ],
+           "amount": [
+            "608.473 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "608.473 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "D\u00e9biteurs",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "608.473",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.6.4",
+           "zone": [
+            [
+             1434,
+             2329
+            ],
+            [
+             1546,
+             2349
+            ]
+           ],
+           "amount": [
+            "6.712.561 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "6.712.561 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "D\u00e9biteurs",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "6.712.561",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.6.5",
+           "zone": [
+            [
+             1619,
+             2330
+            ],
+            [
+             1733,
+             2351
+            ]
+           ],
+           "amount": [
+            "7.035.631 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "7.035.631 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "D\u00e9biteurs",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "7.035.631",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.7",
+         "zone": [
+          [
+           261,
+           2339
+          ],
+          [
+           1739,
+           2378
+          ]
+         ],
+         "title": "H. Disponible ",
+         "text-tags": [
+          [
+           "H.",
+           "item"
+          ],
+          [
+           "Disponible",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.7.1",
+           "zone": [
+            [
+             903,
+             2347
+            ],
+            [
+             994,
+             2367
+            ]
+           ],
+           "amount": [
+            "629.365 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "629.365 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "H.",
+             "item"
+            ],
+            [
+             "Disponible",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "629.365",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.7.2",
+           "zone": [
+            [
+             1086,
+             2349
+            ],
+            [
+             1178,
+             2369
+            ]
+           ],
+           "amount": [
+            "624.777 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "624.777 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "H.",
+             "item"
+            ],
+            [
+             "Disponible",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "624.777",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.7.3",
+           "zone": [
+            [
+             1273,
+             2351
+            ],
+            [
+             1367,
+             2372
+            ]
+           ],
+           "amount": [
+            "456.872 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "456.872 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "H.",
+             "item"
+            ],
+            [
+             "Disponible",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "456.872",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.7.4",
+           "zone": [
+            [
+             1433,
+             2355
+            ],
+            [
+             1552,
+             2376
+            ]
+           ],
+           "amount": [
+            "6.972.139 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "6.972.139 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "H.",
+             "item"
+            ],
+            [
+             "Disponible",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "6.972.139",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.7.5",
+           "zone": [
+            [
+             1618,
+             2356
+            ],
+            [
+             1739,
+             2378
+            ]
+           ],
+           "amount": [
+            "7.787.560 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "7.787.560 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "H.",
+             "item"
+            ],
+            [
+             "Disponible",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "7.787.560",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        },
+        {
+         "type": "table-line",
+         "id": "1.3.1.2.8",
+         "zone": [
+          [
+           878,
+           2400
+          ],
+          [
+           1732,
+           2431
+          ]
+         ],
+         "title": "TOTAL",
+         "text-tags": [
+          [
+           "Total",
+           "item"
+          ]
+         ],
+         "children": [
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.8.1",
+           "zone": [
+            [
+             878,
+             2400
+            ],
+            [
+             993,
+             2420
+            ]
+           ],
+           "amount": [
+            "3.216.760 ",
+            "amount"
+           ],
+           "year": [
+            "1957 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "3.216.760 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1957",
+             "year"
+            ],
+            [
+             "3.216.760",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.8.2",
+           "zone": [
+            [
+             1061,
+             2402
+            ],
+            [
+             1176,
+             2422
+            ]
+           ],
+           "amount": [
+            "3.502.468 ",
+            "amount"
+           ],
+           "year": [
+            "1958 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "3.502.468 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1958",
+             "year"
+            ],
+            [
+             "3.502.468",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.8.3",
+           "zone": [
+            [
+             1250,
+             2404
+            ],
+            [
+             1364,
+             2425
+            ]
+           ],
+           "amount": [
+            "3.508.261 ",
+            "amount"
+           ],
+           "year": [
+            "1959 ",
+            "year"
+           ],
+           "currency": [
+            "(En 1 .000 francs) ",
+            "currency"
+           ],
+           "title": "3.508.261 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1959",
+             "year"
+            ],
+            [
+             "3.508.261",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "1",
+             "currency"
+            ],
+            [
+             ".000",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.8.4",
+           "zone": [
+            [
+             1420,
+             2407
+            ],
+            [
+             1551,
+             2428
+            ]
+           ],
+           "amount": [
+            "37.826.875 ",
+            "amount"
+           ],
+           "year": [
+            "1960 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "37.826.875 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1960",
+             "year"
+            ],
+            [
+             "37.826.875",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          },
+          {
+           "type": "table-cell",
+           "id": "1.3.1.2.8.5",
+           "zone": [
+            [
+             1603,
+             2409
+            ],
+            [
+             1732,
+             2431
+            ]
+           ],
+           "amount": [
+            "51.260.991 ",
+            "amount"
+           ],
+           "year": [
+            "1961 ",
+            "year"
+           ],
+           "currency": [
+            "(En nouveaux francs) ",
+            "currency"
+           ],
+           "title": "51.260.991 ",
+           "text-tags": [
+            [
+             "ACTIF",
+             "part_assets"
+            ],
+            [
+             "Total",
+             "item"
+            ],
+            [
+             "1961",
+             "year"
+            ],
+            [
+             "51.260.991",
+             "amount"
+            ],
+            [
+             "(En",
+             "currency"
+            ],
+            [
+             "nouveaux",
+             "currency"
+            ],
+            [
+             "francs)",
+             "currency"
+            ]
+           ],
+           "canonical-title": "FR1962Desfosses.BalanceSheet"
+          }
+         ],
+         "canonical-title": "FR1962Desfosses.BalanceSheet"
+        }
+       ],
+       "canonical-title": "FR1962Desfosses.BalanceSheet"
+      }
+     ],
+     "canonical-title": "FR1962Desfosses.BalanceSheet"
+    }
+   ]
+  }
+ ]
+}

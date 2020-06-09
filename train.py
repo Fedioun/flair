@@ -47,7 +47,6 @@ embedding_types: List[TokenEmbeddings] = [
     # comment in these lines to use contextual string embeddings
     #
     FlairEmbeddings('fr-forward'),
-    #
     FlairEmbeddings('fr-backward'),
 ]
 

@@ -3625,3 +3625,61 @@ class BPEmbSerializable(BPEmb):
 
         # once the modes if there, load it with sentence piece
         state["spm"] = sentencepiece_load(self.model_file)
+
+
+class FloatsEmbeddings(TokenEmbeddings):
+    """Floats embeddings."""
+
+    def __init__(
+        self,
+        field: str,
+        length: int,
+        standardize=True,
+    ):
+
+        super().__init__()
+        self.name = "floats"
+        self.static_embeddings = True
+        self.field = field
+        self.standardize = standardize
+
+        self.__embedding_length = length
+
+    @property
+    def embedding_length(self) -> int:
+        return self.__embedding_length
+
+    def _add_embeddings_internal(self, sentences: List[Sentence]) -> List[Sentence]:
+
+        sentences_embeddings = []
+
+        for i, sentence in enumerate(sentences):
+            embedding = [
+                np.float_(eval(t.get_tag(self.field).value))
+                for t in sentence.tokens
+            ]
+            sentences_embeddings.extend(embedding)
+
+        if self.standardize == True:
+            sentences_embeddings = np.array(sentences_embeddings).transpose()
+            for i, dim in enumerate(sentences_embeddings):
+                sentences_embeddings[i] = (sentences_embeddings[i] - np.mean(dim)) / np.std(dim)
+            sentences_embeddings = sentences_embeddings.transpose()
+
+        embedded = torch.tensor(sentences_embeddings, dtype=torch.float).to(
+            flair.device
+        )
+
+        self.__embedding_length = embedded.shape[1]
+
+        index = 0
+        for sentence in sentences:
+            for token in sentence:
+                embedding = embedded[index]
+                token.set_embedding(self.name, embedding)
+                index += 1
+
+        return sentences
+
+    def __str__(self):
+        return self.name

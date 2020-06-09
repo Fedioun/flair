@@ -1,5 +1,5 @@
 from typing import List
-
+import os
 import flair.datasets
 from flair.datasets import ColumnCorpus
 from flair.data import Corpus
@@ -15,19 +15,29 @@ from flair.visual.training_curves import Plotter
 
 rubric = "CAPITAL"
 nb_cells = 32
-exp_name = "shuffled_" + str(nb_cells) + "_01"
+exp_name = "DFS_" + "shuffled_" + str(nb_cells) + "_01"
 # 1. get the corpus
 columns = {0: 'text', 1: 'pos'}
 
 # this is the folder in which train, test and dev files reside
-id = "EHF_shuffled_v0"
+id = "EHF_shuffled_dataset_v0"
 data_folder = './datasets/' + id
+
+
+for file in os.listdir(data_folder):
+    if "train" in file:
+        train = file
+    if "test" in file:
+        test = file
+    if "valid" in file:
+        valid = file
+
 
 # init a corpus using column format, data folder and the names of the train, dev and test files
 corpus: Corpus = ColumnCorpus(data_folder, columns,
-                              train_file="train" + '.txt',
-                              test_file="test"  + '.txt',
-                              dev_file="valid.txt")
+                              train_file=train,
+                              test_file=test,
+                              dev_file=valid)
 
 print(corpus)
 

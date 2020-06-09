@@ -1,4 +1,9 @@
 predictions/*
+cms/*
+datasets/*
+json_extract/inputs/*
+json_extracy/outputs/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
